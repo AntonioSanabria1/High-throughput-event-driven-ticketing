@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+redis
+asyncpg
+confluent-kafka
+pydantic
+locust
